@@ -11,3 +11,7 @@ let paddleHeight = 12,
 
 // Paddle start position
 let paddleX = (canvas.width - paddleWidth) / 2;
+
+
+
+
